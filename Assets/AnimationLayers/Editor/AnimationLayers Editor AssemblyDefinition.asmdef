@@ -1,0 +1,20 @@
+{
+    "name": "AnimationLayersEditorAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:641acdd79a523544485d1bbd88f4466b",
+        "GUID:5cc94b803882d434fb445578ae3e55c1",
+        "GUID:4212f809aa9f7524b9a2b6c9801783d6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

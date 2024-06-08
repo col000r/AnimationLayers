@@ -1,0 +1,21 @@
+{
+  "name": "rocks.brightlight.tools.animationlayers",
+  "displayName": "Animation Layers",
+  "version": "1.1.5",
+  "unity": "2019.1",
+  "description": "Provides an easy way to blend multiple animations with controls for adjusting the speed and weight of each animation",
+  "keywords": [
+    "tools", "animation"
+  ],
+  "samples": [
+    {
+      "displayName": "Test",
+      "description": "Simple example of how to use Animation Layers.",
+      "path": "Samples~/Test"
+    }
+  ],
+  "dependencies": {
+    "rocks.brightlight.tools.imguitoolkit": "1.0.2",
+    "rocks.brightlight.tools.faderx": "1.0.6"
+  }
+}

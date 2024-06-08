@@ -1,0 +1,17 @@
+{
+  "name": "rocks.brightlight.tools.faderx",
+  "displayName": "FaderX",
+  "version": "1.0.7",
+  "unity": "2019.1",
+  "description": "Fade and Lerp with ease!",
+  "keywords": [
+    "blackish"
+  ],
+  "samples": [
+    {
+      "displayName": "Test",
+      "description": "Simple Test Scene",
+      "path": "Samples~/Test"
+    }
+  ]
+}

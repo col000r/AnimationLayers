@@ -1,0 +1,10 @@
+{
+  "name": "rocks.brightlight.tools.imguitoolkit",
+  "displayName": "IMGUI Toolkit",
+  "version": "1.0.2",
+  "unity": "2019.1",
+  "description": "Helpers for working with IMGUI in Unity",
+  "keywords": [
+    "imgui"
+  ]
+}
